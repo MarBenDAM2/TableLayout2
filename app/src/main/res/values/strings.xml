@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout2</string>
+    <string name="tema_text">Asunto</string>
+    <string name="Content_text">Contenido</string>
+    <string name="Fecha_key">Fecha</string>
+    <string name="Star_key">Estrellita</string>
+</resources>
